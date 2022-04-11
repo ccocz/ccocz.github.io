@@ -1,0 +1,12 @@
+body {
+  background-color: darkslategrey;
+  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+  font-size: 12px;
+  color: white;
+}
+
+#main {
+  width: 35%;
+  margin-left: 10%;
+  margin-top: 100px;
+}
